@@ -7,7 +7,7 @@ const App = () => (
       <title>Nimesh Solanki</title>
       <div className="intro">Hello, I'm Nimesh!</div>
       <div className="tagline">
-        All-Star Dev | Code Fanatic | Competitive Programmer | Tech-Geek
+        Full Stack Dev | Code Fanatic | Competitive Programmer | Tech-Geek
       </div>
       {/* <!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands --> */}
       <div className="icons-social">

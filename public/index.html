@@ -14,8 +14,19 @@
   <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
   <link rel="stylesheet" href="./css/reset.css">
   <link rel="stylesheet" href="./css/styles.css">
-  <link href="./public/css/themes/styles<?php echo mt_rand(1, 9); ?>.css" rel="stylesheet" type="text/css" />
-  <!-- <link rel="stylesheet" href="./css/themes/grey-white.css"> -->
+
+  <!-- JS way to randomly load css -->
+  <script>
+    (function () {
+      var sheet = document.createElement('link');
+      sheet.rel = 'stylesheet';
+      sheet.href = `./css/themes/styles${(Math.floor(Math.random() * 9) + 1)}.css`;
+      document.getElementsByTagName('head')[0].appendChild(sheet);
+    })();
+  </script>
+  <!-- PHP way to randomly load css -->
+  <!-- <link href="./css/themes/styles<?php echo mt_rand(1, 9); ?>.css" rel="stylesheet" type="text/css" /> -->
+  <!-- <link rel="stylesheet" href="./css/themes/styles2.css" type="text/css"> -->
   <!-- <link href="/public/css/" -->
 </head>
 
