@@ -4,6 +4,6 @@
 
 ## ScreenShots
 
-<img src="/public/assets/webPage1.jpg" height="500px"/>
-<img src="/public/assets/webPage2.jpg" height="500px"/>
-<img src="/public/assets/webPage3.jpg" height="500px"/>
+<img src="/public/assets/webPage1.png" height="500px"/>
+<img src="/public/assets/webPage2.png" height="500px"/>
+<img src="/public/assets/webPage3.png" height="500px"/>
