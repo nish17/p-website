@@ -1,6 +1,6 @@
 # p-website
 
-## Do refresh the web page few times and see the magic!
+## Do refresh the web page few times and see the magic! ![Alt Text](./public/assets/2tmw31.gif)!
 
 ## ScreenShots
 
