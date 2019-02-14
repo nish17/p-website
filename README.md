@@ -1,6 +1,8 @@
 # Personal website
 
-## Do refresh the web page few times and see the magic! <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="magic" height="190" width="200" />
+## Do refresh the web page few times and see the magic!
+
+<img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="magic" height="190" width="200" />
 
 ## ScreenShots
 
