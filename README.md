@@ -1,6 +1,6 @@
 # p-website
 
-## Do refresh the web page few times and see the ![magic!](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
+## Do refresh the web page few times and see the ![magic!](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif =250x250)
 
 ## ScreenShots
 
